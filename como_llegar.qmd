@@ -1,0 +1,37 @@
+---
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap">
+---
+
+<style>
+body {
+  background-image: url("images/cream.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+}
+</style>
+
+<!-- Bottom Section (Google Maps, no background image) -->
+<div class="body">
+  <span style="color: #72376E; font-family: Special Elite; font-size: 32px;">Cómo llegar</span><br><br>
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.4432201949353!2d-0.32411722425411466!3d39.594697105260884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6040ec8c555941%3A0xe4e5f9078eff9391!2sCartuja%20de%20Ara%20Christi!5e0!3m2!1ses!2ses!4v1737885071252!5m2!1ses!2ses&maptype=satellite" 
+    width="600" 
+    height="450" 
+    frameborder="0" 
+    style="border:0;" 
+    allowfullscreen>
+  </iframe>
+</div>

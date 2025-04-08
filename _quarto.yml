@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    pinned: true
+    background: "#F5E4D7"
+    left:
+      - href: index.qmd
+        text: ¡Nos casamos!
+      - href: rsvp.qmd
+        text: Confirma tu asistencia
+      - href: horarios.qmd
+        text: Horarios
+      - href: como_llegar.qmd
+        text: Direcciones
+      - href: gracias.qmd
+        text: Gracias
+
+
+format:
+  html:
+    toc: true
+    theme: styles.scss
+
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap">
+
+
+
