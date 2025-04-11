@@ -25,13 +25,15 @@ body {
 
 <!-- Bottom Section (Google Maps, no background image) -->
 <div class="body">
-  <span style="color: #72376E; font-family: Special Elite; font-size: 32px;">Cómo llegar</span><br><br>
+  <span style="color: #72376E; font-family: Special Elite; font-size: 25px;">Cómo llegar</span><br><br>
   <iframe 
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.4432201949353!2d-0.32411722425411466!3d39.594697105260884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6040ec8c555941%3A0xe4e5f9078eff9391!2sCartuja%20de%20Ara%20Christi!5e0!3m2!1ses!2ses!4v1737885071252!5m2!1ses!2ses&maptype=satellite" 
-    width="600" 
-    height="450" 
+    width="300" 
+    height="250" 
     frameborder="0" 
     style="border:0;" 
     allowfullscreen>
   </iframe>
-</div>
+</div> 
+
+<img src="images/cartuja.png" style="max-width: 250px; height: auto;">
