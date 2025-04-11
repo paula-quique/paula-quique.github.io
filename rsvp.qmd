@@ -42,3 +42,5 @@ body {
     </span>
   </p>
 </div>
+
+<img src="images/cartuja.png" style="max-width: 250px; height: auto;">
