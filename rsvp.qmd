@@ -24,9 +24,10 @@ body {
 </style>
 
 <div class="body">
-  <p style="color: #72376E;"><br><br><br><br>
+  <p style="color: #72376E;">
+    <br><br><br><br>
     <span style="font-size: 30px; display: block; margin-bottom: 20px;">
-      Para acabar de organizarlo todo necesitamos que respondáis a unas pocas preguntas:
+      Necesitamos que respondáis a unas preguntas para confirmar vuestra asistencia:
     </span>
     <span style="font-size: 24px; display: block; margin-bottom: 30px;">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSd16UMIv_MNCNrMNGvUj31ZmAafpQPLkPxfKZd2j3bxXNwy8A/viewform?usp=dialog" 
