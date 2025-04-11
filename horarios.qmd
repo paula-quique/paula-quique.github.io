@@ -28,47 +28,47 @@ body {
   <img src="images/recogida.png" style="max-width: 125px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
 
-<img src="images/arrow_izq2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-right: -15px;">
+<img src="images/arrow_izq2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-bottom: -100px; margin-right: 0px; margin-left: 0px;">
 
 <div style="margin-right: 300px; text-align: center; color: #72376E;">
-  <div style="font-size: 20px;">19:00</div> 
-  <div style="font-size: 25px;">Ceremonia</div> 
+  <div style="font-size: 18px;">19:00</div> 
+  <div style="font-size: 22px;">Ceremonia</div> 
   <div style="color: #527130; font-size: 20px; text-decoration: underline;">Jardín</div>
   <img src="images/ceremonia.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
 
-<img src="images/arrow_der2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+<img src="images/arrow_der2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-bottom: -100px; margin-right: 0px; margin-left: 0px;">
 
 <div style="margin-left: 300px; text-align: center; color: #72376E;">
-  <div style="font-size: 20px;">20:00</div> 
-  <div style="font-size: 25px;">Cóctel</div> 
+  <div style="font-size: 18px;">20:00</div> 
+  <div style="font-size: 22px;">Cóctel</div> 
   <div style="color: #527130; font-size: 20px; text-decoration: underline;">Jardín</div>
   <img src="images/coctel.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
 
-<img src="images/arrow_izq2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+<img src="images/arrow_izq2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-bottom: -100px; margin-right: 0px; margin-left: 0px;">
 
 <div style="margin-right: 300px; text-align: center; color: #72376E;">
-  <div style="font-size: 20px;">21:30</div> 
-  <div style="font-size: 25px;">Cena</div> 
+  <div style="font-size: 18px;">21:30</div> 
+  <div style="font-size: 22px;">Cena</div> 
   <div style="color: #527130; font-size: 20px; text-decoration: underline;">Claustro</div>
   <img src="images/plato_rem.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
 
-<img src="images/arrow_der2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+<img src="images/arrow_der2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-bottom: -100px; margin-right: 0px; margin-left: 0px;">
 
 <div style="margin-left: 300px; text-align: center; color: #72376E;">
-  <div style="font-size: 20px;">23:00</div> 
-  <div style="font-size: 25px;">Fiesta</div> 
+  <div style="font-size: 18px;">23:00</div> 
+  <div style="font-size: 22px;">Fiesta</div> 
   <div style="color: #527130; font-size: 20px; text-decoration: underline;">Salón de espejos</div>
   <img src="images/fiesta.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
 
-<img src="images/arrow_izq2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+<img src="images/arrow_izq2.png" style="max-width: 125px; height: 100px; margin-top: -75px; margin-bottom: -100px; margin-right: 0px; margin-left: 0px;">
 
 <div style="margin-right: 300px; text-align: center; color: #72376E;">
-  <div style="font-size: 20px;">05:00</div> 
-  <div style="font-size: 25px;">Bus vuelta</div> 
+  <div style="font-size: 18px;">05:00</div> 
+  <div style="font-size: 22px;">Bus vuelta</div> 
   <div style="color: #527130; font-size: 20px; text-decoration: underline;">Parking</div>
   <img src="images/fin.png" style="max-width: 120px; height: auto; margin-top: 0px; margin-bottom: 0px;">
 </div>
