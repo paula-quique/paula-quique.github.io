@@ -1,0 +1,46 @@
+---
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap">
+---
+
+<style>
+body {
+  background-image: url("images/cream.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+}
+</style>
+
+<div class="body">
+  <p style="color: #72376E;"><br><br><br><br>
+    <span style="font-size: 30px; display: block; margin-bottom: 20px;">
+      Para acabar de organizarlo todo necesitamos que respondáis a unas pocas preguntas:
+    </span>
+    <span style="font-size: 24px; display: block; margin-bottom: 30px;">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd16UMIv_MNCNrMNGvUj31ZmAafpQPLkPxfKZd2j3bxXNwy8A/viewform?usp=dialog" 
+         style="color: #527130; text-decoration: underline;">
+        Haced click en este enlace para acceder al formulario
+      </a>
+    </span>
+    <span style="font-size: 32px; display: block; margin-bottom: 15px;">
+      ¡Muchas gracias!
+    </span>
+    <span style="font-size: 32px; display: block;">
+      Nos vemos pronto :-)
+    </span>
+  </p>
+</div>
+
+<img src="images/cartuja.png" style="max-width: 250px; height: auto;">

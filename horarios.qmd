@@ -1,0 +1,74 @@
+---
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap">
+---
+
+<style>
+body {
+  background-image: url("images/cream.jpg");
+  background-size: cover;
+  background-position: center;
+  /* Remove background-attachment: fixed if you want the image to scroll */
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 100px; /* Set fixed height instead of min-height */
+  width: 100%;
+  overflow-x: hidden;
+  font-family: "Special Elite", system-ui;
+  position: relative;
+}
+</style>
+
+<div style="margin-left: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">17:45</div> 
+  <div style="font-size: 25px;">Recogida buses</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Lugar por confirmar</div>
+  <img src="images/recogida.png" style="max-width: 150px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
+
+<img src="images/arrow_izq2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+
+<div style="margin-right: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">19:00</div> 
+  <div style="font-size: 25px;">Ceremonia</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Jardín</div>
+  <img src="images/ceremonia.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
+
+<img src="images/arrow_der2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+
+<div style="margin-left: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">20:00</div> 
+  <div style="font-size: 25px;">Cóctel</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Jardín</div>
+  <img src="images/coctel.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
+
+<img src="images/arrow_izq2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+
+<div style="margin-right: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">21:30</div> 
+  <div style="font-size: 25px;">Cena</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Claustro</div>
+  <img src="images/plato_rem.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
+
+<img src="images/arrow_der2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+
+<div style="margin-left: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">23:00</div> 
+  <div style="font-size: 25px;">Fiesta</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Salón de espejos</div>
+  <img src="images/fiesta.png" style="max-width: 80px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
+
+<img src="images/arrow_izq2.png" style="max-width: 150px; height: 125px; margin-top: -75px; margin-bottom: -75px;">
+
+<div style="margin-right: 300px; text-align: center; color: #72376E;">
+  <div style="font-size: 20px;">05:00</div> 
+  <div style="font-size: 25px;">Bus vuelta</div> 
+  <div style="color: #527130; font-size: 20px; text-decoration: underline;">Parking</div>
+  <img src="images/fin.png" style="max-width: 120px; height: auto; margin-top: 0px; margin-bottom: 0px;">
+</div>
