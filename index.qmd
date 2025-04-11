@@ -25,10 +25,10 @@ body {
 </style>
 
 <div style="text-align: center; color: #72376E;">
-  <div style="font-size: 40px;">Paula y Quique</div> <br>
+  <div style="font-size: 45px; font-variant: small-caps">Paula y Quique</div> <br>
     <img src="images/main.jpg" 
        style="
-         width: 100%;
+         width: 75%;
          height: auto;
          margin: 0;
          display: inline-block;
@@ -47,13 +47,16 @@ body {
               transparent 100%);
        "> 
   <br><br>
-  <div style="font-size: 32px;">
+  <div style="font-size: 30px;">
   <a href="como_llegar.qmd" style="color: #527130; text-decoration: underline;">
     Cartuja de Ara Christi
   </a>
 </div>
-  <div style="color: #527130; font-size: 26px;">26 de julio de 2025</div>
-  <div style="color: #527130; font-size: 26px; text-decoration: underline;">[RSVP](rsvp.qmd)</div>
+  <div style="color: #527130; font-size: 26px;">26 de julio de 2025<br>
+  <a href="rsvp.qmd" style="color: #527130; text-decoration: underline;">
+    RSVP
+  </a>
+  </div>
 </div>
 
 
