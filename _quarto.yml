@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  title: "Paula & Quique"
   navbar:
     pinned: true
     background: "#F5E4D7"
